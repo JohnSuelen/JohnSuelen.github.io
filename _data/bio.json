@@ -24,14 +24,16 @@
         "network": "linkedin",
         "username": "John Vicson Suelen",
         "url": "https://www.linkedin.com/in/john-vicson-suelen-139a71203/"
-      },
-     
+      }
+
     ]
   },
   "interests": [
     {
       "name": "Video Games",
-      "keywords": 
+      "keywords":[
+
+      ]
     },
     {
       "name": "Software Development",
@@ -53,7 +55,8 @@
         "C++",
         "Java",
         "Javascript",
-       
+        "HTML"
+
       ]
     },
     {
@@ -61,9 +64,8 @@
       "level": "",
       "keywords": [
         "Windows",
-       
-        "Git/GitHub",
-       
+
+        "Git/GitHub"
       ]
     }
   ],
@@ -76,20 +78,37 @@
       "endDate": "Present",
       "gpa": "3.5",
       "courses": [
+        "ICS 111: Intro to Computer Science I",
+        "ICS 141: Discrete Mathematics II",
+        "ICS 211: Intro to Computer Science II",
+        "ICS 241: Discrete Mathematics I",
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering"
       ]
     }
   ],
-  "work": ,
-  "volunteer": 
- ,
+  "work":[
+
+  ],
+  "volunteer":[
+    {
+      "organization": "SSS Manoa Makeover: Pond Cleanup",
+      "website": "https://manoa.hawaii.edu/undergrad/sss/",
+      "position": "Volunteer",
+      "startDate": "2019-10-01",
+      "endDate": "Present",
+      "summary": "Assistance in managing and cleaning the Krauss Pond"
+    }
+  ],
+
   "awards": [
     {
       "title": "B+ Scholarship",
       "date": "2019-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    
+    }
+
   ],
   "references": [
     {
