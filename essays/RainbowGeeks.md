@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ICS414 Reflection
+title: RainbowGeeks
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-05
 labels:
