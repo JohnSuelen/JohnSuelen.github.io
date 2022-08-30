@@ -55,7 +55,8 @@
         "C++",
         "Java",
         "Javascript",
-        "HTML"
+        "HTML",
+        "SQL"
 
       ]
     },
@@ -79,11 +80,17 @@
       "gpa": "3.5",
       "courses": [
         "ICS 111: Intro to Computer Science I",
-        "ICS 141: Discrete Mathematics II",
+        "ICS 141: Discrete Mathematics I",
         "ICS 211: Intro to Computer Science II",
-        "ICS 241: Discrete Mathematics I",
+        "ICS 212: Program Structure",
+        "ICS 241: Discrete Mathematics II",
         "ICS 311: Algorithms",
-        "ICS 314: Software Engineering"
+        "ICS 314: Software Engineering I",
+        "ICS 321: Database Systems I",
+        "ICS 332: Operating Systems",
+        "ICS 312: Machine-Level & Systems Programming",
+        "ICS 414: Software Engineering II",
+        "ICS 451: Data Networks"
       ]
     }
   ],
@@ -106,6 +113,22 @@
       "startDate": "2020-09-27",
       "endDate": "2020-12-17",
       "summary": "Displays self-teaching skills, following directions, and discipline."
+    },
+    {
+      "organization": "UH Class Critics",
+      "website": "https://uh-class-critics.github.io/",
+      "position": "Developer",
+      "startDate": "2021-03-11",
+      "endDate": "2021-04-12",
+      "summary": "Worked in a team to develop a website similar to Rate My Professors but specifically for UH Manoa students."
+    },
+    {
+      "organization": "rainbowgeeks",
+      "website": "https://rainbowgeeks.github.io/",
+      "position": "Developer",
+      "startDate": "2022-01-27",
+      "endDate": "2022-04-28",
+      "summary": "Worked in a team to develop a website for VolunteerAlly, which is a service used by organizations to find volunteers, where we worked to provide improvements to an existing website from them."
     }
   ],
   
