@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://JohnSuelen.github.io/images/jsuelen.PNG",
     "email": "jsuelen@hawaii.edu",
-    "phone": "808-783-3282",
     "website": "https://JohnSuelen.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
@@ -43,6 +42,18 @@
     {
       "name": "Game Development",
       "keywords": [
+      ]
+    },
+    {
+      "name": "Virtual/Augmented Reality",
+      "keywords":[
+
+      ]
+    },
+    {
+      "name": "Self Improvement",
+      "keywords":[
+
       ]
     }
   ],
@@ -98,7 +109,7 @@
   ],
   "work":[
     {
-      "organization": "Hawai’i Entertainment Media",
+      "company": "Hawai’i Entertainment Media",
       "website": "https://hemexperiences.com/",
       "position": "Intern",
       "startDate": "Jan 2023",
@@ -106,7 +117,7 @@
       "summary": "A 6-month hands on learning training program on creating 360 degree videos and VR experiences"
     },
     {
-      "organization": "Laboratory for Advanced Visualization & Applications (LAVA)",
+      "company": "Laboratory for Advanced Visualization & Applications (LAVA)",
       "website": "https://www.lavaflow.info/",
       "position": "Research Assistant",
       "startDate": "Jan 2022",
