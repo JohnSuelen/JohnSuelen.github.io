@@ -90,11 +90,29 @@
         "ICS 332: Operating Systems",
         "ICS 312: Machine-Level & Systems Programming",
         "ICS 414: Software Engineering II",
-        "ICS 451: Data Networks"
+        "ICS 451: Data Networks",
+        "ICS 484: Data Visualization",
+        "ACM 419: Virtual & Augmntd Reality Prog"
       ]
     }
   ],
   "work":[
+    {
+      "organization": "Hawai’i Entertainment Media",
+      "website": "https://hemexperiences.com/",
+      "position": "Intern",
+      "startDate": "Jan 2023",
+      "endDate": "Jun 2023",
+      "summary": "A 6-month hands on learning training program on creating 360 degree videos and VR experiences"
+    },
+    {
+      "organization": "Laboratory for Advanced Visualization & Applications (LAVA)",
+      "website": "https://www.lavaflow.info/",
+      "position": "Research Assistant",
+      "startDate": "Jan 2022",
+      "endDate": "Present",
+      "summary": "Member of Change(HI) REU program, creating visualizations on the Tilt Five"
+    }
 
   ],
   "volunteer":[
