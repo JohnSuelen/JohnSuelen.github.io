@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PC.jpg
+image: images/t5.jpg
 title: Tilt Five @ LAVA Lab
 permalink: projects/TiltFiveLAVA
 # All dates must be YYYY-MM-DD format!
